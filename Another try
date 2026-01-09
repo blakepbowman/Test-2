@@ -1,2 +1,7 @@
-Youtuber = Blake Bowman
-print(f"Subscribe to {Youtuber}")
+celebrity = input("Celebrity:")
+adjective1 = input("Adjective:")
+noun = input("Noun:")
+huge_number = ("Huge Number:")
+Madlib = f"I couldn't wait to try out a cookie recipe I saw {celebrity} whip up on \
+the reality TV show {adjective1} Chef. First I preheated the {noun1} to {huge_number} \
+'F.
